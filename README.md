@@ -1,1 +1,0 @@
-[Final Exam Part C](finalExam2022.md)
